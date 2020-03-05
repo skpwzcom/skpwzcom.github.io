@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.skpwz.com/"/>
-  <updated>2020-03-05T03:38:58.581Z</updated>
+  <updated>2020-03-05T04:34:53.678Z</updated>
   <id>http://blog.skpwz.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>start</title>
+    <link href="http://blog.skpwz.com/2020/03/05/start/"/>
+    <id>http://blog.skpwz.com/2020/03/05/start/</id>
+    <published>2020-03-05T04:28:37.000Z</published>
+    <updated>2020-03-05T04:34:53.678Z</updated>
+    
+    <content type="html"><![CDATA[<p>历经千辛万苦，终于把这个纯静态的blog搭建好了</p><p>这个博客的空间使用的是GitHub，由于GitHub之前被微软收购，现在的GitHub财气大出提供了无限度的空间，所以-0^0-</p><p>此博客采用hexo生成,目前感觉还是很不错的</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;历经千辛万苦，终于把这个纯静态的blog搭建好了&lt;/p&gt;
+&lt;p&gt;这个博客的空间使用的是GitHub，由于GitHub之前被微软收购，现在的GitHub财气大出提供了无限度的空间，所以-0^0-&lt;/p&gt;
+&lt;p&gt;此博客采用hexo生成,目前感觉还是很不错的&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
