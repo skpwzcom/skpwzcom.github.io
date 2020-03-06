@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.skpwz.com/"/>
-  <updated>2020-03-05T04:34:53.678Z</updated>
+  <updated>2020-03-06T04:47:03.888Z</updated>
   <id>http://blog.skpwz.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>测试图片显示功能</title>
+    <link href="http://blog.skpwz.com/2020/03/06/%E6%B5%8B%E8%AF%95%E5%9B%BE%E7%89%87%E6%98%BE%E7%A4%BA%E5%8A%9F%E8%83%BD/"/>
+    <id>http://blog.skpwz.com/2020/03/06/%E6%B5%8B%E8%AF%95%E5%9B%BE%E7%89%87%E6%98%BE%E7%A4%BA%E5%8A%9F%E8%83%BD/</id>
+    <published>2020-03-06T04:41:04.000Z</published>
+    <updated>2020-03-06T04:47:03.888Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="http://blog.skpwz.com/src/s0001.jpg" alt="avatar"></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;http://blog.skpwz.com/src/s0001.jpg&quot; alt=&quot;avatar&quot;&gt;&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="test" scheme="http://blog.skpwz.com/tags/test/"/>
+    
+  </entry>
   
   <entry>
     <title>start</title>
